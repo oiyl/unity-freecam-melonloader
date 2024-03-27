@@ -13,6 +13,7 @@ Very simple Unity il2cpp freecam melonloader mod with XInput controller and keyb
 
 
 # Development
+**⚠️ Run MelonLoader at least once to make sure the assemblies are downloaded**
 1. Copy "MelonLoader.dll" and "Il2CppInterop.Runtime.dll" from your `MelonLoader\net6\` path into the projects `libs\` folder
 
 2. Copy the library content from `MelonLoader\Il2CppAssemblies\` into the projects `libs\` directory
