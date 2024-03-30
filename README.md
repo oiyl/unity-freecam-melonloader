@@ -7,7 +7,7 @@ Very simple Unity il2cpp freecam melonloader mod with XInput controller and keyb
 # Installation
 **⚠️ Backup game files before installing**
 1. Download and install [MelonLoader](https://github.com/LavaGang/MelonLoader)
-2. Download the Unity freecam from the [releases](https://github.com/cocainewoman/unity-freecam-melonloader/releases/) page
+2. Download the Unity freecam from the [releases](https://github.com/oiyl/unity-freecam-melonloader/releases/) page
 3. Place the `Keyboard/Mods/unity_freecam.dll` in your MelonLoader installation directory's `Mods` folder (Alternatively use `Controller` folder for controllers)
 4. For controller support, place `Controller/UserLib`s in your MelonLoader installation directory `UserLibs` folder, and place `XInputInterface.dll` in your MelonLoader installation directory
 
@@ -46,4 +46,4 @@ If you encounter any issues or have suggestions for improvement, please open an 
 * Speps for his [XInput C# wrapper](https://github.com/speps/XInputDotNet)  
 
 # License
-The MIT License, available in the [LICENSE](https://github.com/cocainewoman/unity-freecam-melonloader/blob/master/LICENSE) file
+The MIT License, available in the [LICENSE](https://github.com/oiyl/unity-freecam-melonloader/blob/master/LICENSE) file
