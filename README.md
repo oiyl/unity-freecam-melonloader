@@ -43,7 +43,8 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 # Acknowledgements
 * The MelonLoader community
-* Speps for his [XInput C# wrapper](https://github.com/speps/XInputDotNet)  
+* Speps for their  [XInput C# wrapper](https://github.com/speps/XInputDotNet)  
+* Sinai for their [UnityExplorer mod](https://github.com/sinai-dev/UnityExplorer) and general inspiration for this
 
 # License
 The MIT License, available in the [LICENSE](https://github.com/oiyl/unity-freecam-melonloader/blob/master/LICENSE) file
